@@ -1,5 +1,6 @@
-# SPO2_HR
+# Baseline algorithm of SPO2_HR
 By detecting  peaks of PPG cycle and corresponding AC/DC of red/infra-red signal, the ratio for the SPO2 is computed.
+As a reference, this baseline is original code. If you want to use it in your project, you should polish it again.
 
 step 1： update the Freq: FS in algorithm.h
 step 2: update the your own R curve in the algorithm.h
